@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1622271218 source:c:\users\fefes\documents\projetosc\projeto_desempenho\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/time.h>
+	"desempenho.h"
+
+1622270534 source:c:\users\fefes\documents\projetosc\projeto_desempenho\desempenho.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/time.h>
+	"desempenho.h"
+
+1622270539 c:\users\fefes\documents\projetosc\projeto_desempenho\desempenho.h
+
